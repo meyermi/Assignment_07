@@ -1,0 +1,13 @@
+Name: Mitchell Meyers
+Date: May 31, 2022
+Course: IT FDN 130A
+GitHub Link: meyermi/Assignment_07 (github.com)
+Lessons Learned - Assignment Seven
+Introduction 
+Today I am going to talk about two different topics. The first topic I’d like to talk about is when to use a SQL UDF. The second topic will be about the differences between Scalar, Inline and Multi-Statement Functions.
+when to use a SQL UDF 
+SQL User Defined Functions can greatly reduce time spent managing and manipulating data. Once a UDF is created and stored, it can be used at any time. The use of UDF’s greatly reduces network traffic. 
+Scalar, Inline and Multi-Statement Functions
+Scalar, Inline and Multi Statement Functions are all different forms of User Defined Functions. Scalar Functions accept multiple parameters and return a single result. Multi Statement Functions accept multiple parameters and the return is specified by the input table variant. Inline Functions return a similar result set to views, however they can use multiple parameters, unlike views.  
+Summary
+In conclusion, we have discussed when you would use SQL User Defined Functions. We have also discussed the differences between Inline, Scalar and Multi -Statement Functions. 
